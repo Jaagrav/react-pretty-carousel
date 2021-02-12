@@ -54,6 +54,3 @@ import {
 | `moveTo(5)`    | Move to a certain index/object with smooth animation         | integer    |
 | `switchTo(5)`  | Abruptly move to a certain index/object                      | integer    |
 | `presentIndex` | Get the present index of the carousel object being displayed | none       |
-
-<br>
-> This library unfortunately only supports React and React DOM v16.13.1, make sure you're using that version or else you might face unexpected errors.
