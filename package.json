@@ -1,6 +1,6 @@
 {
     "name": "react-pretty-carousel",
-    "version": "1.0.15",
+    "version": "1.0.16",
     "description": "Add beautiful carousels to your react website in no time!",
     "main": "./build/index.js",
     "scripts": {
