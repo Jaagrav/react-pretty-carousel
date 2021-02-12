@@ -1,7 +1,8 @@
 # React-Pretty-Carousel
 Easily add beautiful carousels to your website in no time!
 
-![React Pretty Carousel](https://dev-to-uploads.s3.amazonaws.com/i/s2pgsz3aykr70s8roj2q.gif)
+![React Pretty Carousel](https://user-images.githubusercontent.com/52719271/107794265-3ad04780-6d7d-11eb-800f-0e133df2fffe.gif)
+
 ## Installation
 In order to install `react-pretty-carousel`, run this command in your terminal.
 ```
