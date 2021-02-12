@@ -1,0 +1,59 @@
+{
+    "name": "react-pretty-carousel",
+    "version": "1.0.19",
+    "description": "Add beautiful carousels to your react website in no time!",
+    "main": "./build/index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "start": "webpack --watch",
+        "build": "webpack"
+    },
+    "author": "Jaagrav Seal",
+    "license": "ISC",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/Jaagrav/react-pretty-carousel.git"
+    },
+    "bugs": {
+        "url": "https://github.com/Jaagrav/react-pretty-carousel/issues"
+    },
+    "homepage": "https://react-pretty-carousel.herokuapp.com/",
+    "keywords": [
+        "react",
+        "carousel",
+        "slideshow",
+        "image-slider",
+        "react-carousel",
+        "drag",
+        "slides"
+    ],
+    "dependencies": {},
+    "peerDependencies": {
+        "prop-types": "^15.6.0",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1"
+    },
+    "devDependencies": {
+        "@babel/core": "^7.12.16",
+        "@babel/plugin-syntax-jsx": "^7.12.1",
+        "@babel/preset-env": "^7.12.11",
+        "@babel/preset-react": "^7.12.10",
+        "babel-preset-react": "^6.16.0",
+        "babel-preset-stage-0": "^6.24.1",
+        "path": "^0.12.7",
+        "prop-types": "^15.6.0",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1",
+        "webpack": "^4.44.2",
+        "babel-cli": "^6.26.0",
+        "babel-core": "^6.26.3",
+        "babel-loader": "^8.2.2",
+        "babel-plugin-transform-object-rest-spread": "^6.26.0",
+        "babel-plugin-transform-react-jsx": "^6.24.1",
+        "babel-preset-env": "^1.7.0",
+        "css-loader": "^5.0.1",
+        "style-loader": "^2.0.0",
+        "webpack-cli": "^4.4.0",
+        "webpack-dev-server": "^3.11.2"
+    }
+}
