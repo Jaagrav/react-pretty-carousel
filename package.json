@@ -1,6 +1,6 @@
 {
     "name": "react-pretty-carousel",
-    "version": "1.0.14",
+    "version": "1.0.15",
     "description": "Add beautiful carousels to your react website in no time!",
     "main": "./build/index.js",
     "scripts": {
@@ -16,7 +16,7 @@
     },
     "bugs": {
         "url": "https://github.com/Jaagrav/react-pretty-carousel/issues"
-      },
+    },
     "homepage": "https://github.com/Jaagrav/react-pretty-carousel#readme",
     "keywords": [
         "react",
@@ -27,14 +27,24 @@
         "drag",
         "slides"
     ],
-    "dependencies": {
+    "dependencies": {},
+    "peerDependencies": {
+        "prop-types": "^15.6.0",
         "react": "^16.13.1",
-        "webpack": "^5.17.0"
+        "react-dom": "^16.13.1"
     },
     "devDependencies": {
+        "@babel/core": "^7.12.16",
         "@babel/plugin-syntax-jsx": "^7.12.1",
         "@babel/preset-env": "^7.12.11",
         "@babel/preset-react": "^7.12.10",
+        "babel-preset-react": "^6.16.0",
+        "babel-preset-stage-0": "^6.24.1",
+        "path": "^0.12.7",
+        "prop-types": "^15.6.0",
+        "react": "^16.13.1",
+        "react-dom": "^16.13.1",
+        "webpack": "^4.44.2",
         "babel-cli": "^6.26.0",
         "babel-core": "^6.26.3",
         "babel-loader": "^8.2.2",
